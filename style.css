@@ -1,0 +1,94 @@
+* {
+	margin:  0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.conteiner {
+max-width: 1920;
+width: 100%;
+margin: 0px, auto;
+}
+
+  
+header {
+	background: #0020F4;
+	height: 388px;
+/*	padding:  27px, 241px, 288px,240px;*/
+	padding-top: 50px;
+	padding-left: 240px;
+}
+.logo {
+	width: 115px;
+	/*margin-right: 603px;*/
+}
+.navbar-a {
+	color: white;
+	font-size: 16px;
+	text-decoration: none;
+}
+nav {
+	display:  inline;
+}	
+
+ul{
+	list-style-type: none;
+	display:  inline;
+}
+li {
+	display:  inline;
+	margin-right: 27px;
+}
+section {
+	
+	width: 1920px;
+    margin: 0, auto;
+
+}
+.main-image {
+	height: 600px;
+}
+
+.mid-p{
+
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.editional-information{
+	font-size: 16px;
+	color: white;
+	background-color:#0020F4;
+	text-decoration: none;
+	margin-top: 58px;
+	margin-bottom: 180px;
+}
+h2 {
+	font-size: 28px;
+	margin-top: 30px;
+}
+
+	footer {
+	background-color: #0020F4;
+	height: 1080px;
+	padding-bottom: 32px;
+	padding-top: 275px;
+	margin-top: 60px;
+}
+.contact{
+	font-size: 32px;
+	color: white;
+}
+.footer-p{
+	font-size: 16 px;
+	display: inline-block;
+	width: 463px;
+	color: white;
+}
+.footer-logo {
+	width: 121px;
+}
+.remark {
+	color: white;
+	font-size: 16px;
+}
